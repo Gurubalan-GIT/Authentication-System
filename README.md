@@ -1,2 +1,2 @@
 ## MySQL-Showcase
-Web Application showcasing all MySQL Funtions.
+Web Application with solid authentication done by Java.
