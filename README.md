@@ -1,2 +1,2 @@
-## MySQL-Showcase
+## Auth-System
 Web Application with solid authentication done by Java.
